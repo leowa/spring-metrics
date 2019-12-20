@@ -11,6 +11,10 @@ curl https://start.spring.io/starter.tgz -d dependencies=web -d language=java -d
 
 ## Create simple REST
 
+## Metrics
+
+We will leverage recent [actuator](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready) on top of spring boot2.
+
 ## [Run spring cloud services in develop environment](https://cloud.spring.io/spring-cloud-cli/reference/html/#_running_spring_cloud_services_in_development)
 
 ```sh
